@@ -1,4 +1,4 @@
-I am a 26 yo French man currently looking for a data analyst job.
+I am a 28 yo French man currently looking for a data analyst job.
 
 Skills: Excel, SQL, Python, EDA, Clustering, Problem solving, hypothesis testing, Data Visualization (matplotlib, seaborn, Tableau) 
 
